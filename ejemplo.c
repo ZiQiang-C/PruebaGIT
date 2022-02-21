@@ -1,8 +1,8 @@
-#include
+e#include
 <stdio.h> int
 main()
 {
-printf("hello
-world"); return 0;
+printf("este es una ejemplo
+       "); return 0;
 }
 
